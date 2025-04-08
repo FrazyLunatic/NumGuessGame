@@ -37,6 +37,8 @@ Incorrect! The number is less than 35.
 
 Enter your guess: 30
 Congratulations! You guessed the correct number in 4 attempts.
+
+
 To make the game more interesting, you can add the following features:
 
 Allow the user to play multiple rounds of the game (i.e., keep playing until the user decides to quit). You can do this by asking the user if they want to play again after each round.
